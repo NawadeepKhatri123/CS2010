@@ -1,3 +1,7 @@
+; Nawadeep Khatri
+;5086950
+;oct 21
+;Fibonnaci using index method
 INCLUDE Irvine32.inc
 
 .data
